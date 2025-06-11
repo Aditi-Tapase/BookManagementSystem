@@ -18,14 +18,14 @@ A RESTful web application built using **Spring Boot**, **JDBC**, and **MySQL** t
 
 ## 🛠️ Tech Stack
 <br>
-| Technology       | Description                   |               <br>
-|------------------|-------------------------------|            <br>
-| Java 17          | Programming Language          |           <br>
-| Spring Boot      | Backend Framework             |          <br>
-| JDBC             | Database Connectivity         |            <br>
-| MySQL            | Relational Database           |            <br>
-| Maven            | Build & Dependency Management |             <br>
-| Postman          | API Testing                   |              <br>
+| Technology                    <br>
+|------------------|----------------------|            <br>
+| Java 17   ---------      Programming Language                     <br>
+| Spring Boot  ---------     Backend Framework                      <br>
+| JDBC        ---------      Database Connectivity                     <br>
+| MySQL       --------- Relational Database                     <br>
+| Maven            --------- Build & Dependency Management            <br>
+| Postman          --------- API Testing                                 <br>
 
 
 
